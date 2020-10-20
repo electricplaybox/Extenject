@@ -1,0 +1,23 @@
+{
+    "name": "com.electricplaybox.extenject",
+    "version": "9.1.1",
+    "displayName": "Extenject DI Framework",
+    "description": "This package provides the Extenject DI Framework as a convinience package to include in all other proejcts.",
+    "unity": "2020.1",
+    "unityRelease": "1f1",
+    "author": {
+      "name": "Steve Vermeulen",
+      "email": "sfvermeulen@gmail.com",
+      "url": "http://www.stevevermeulen.com/"
+    },
+    "type": "library",
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/@electricplaybox/"
+    },
+    "repository": {
+      "type": "git",
+      "url": "ssh://git@github.com:electricplaybox/Extenject.git",
+      "directory": "UnityProject/Assets"
+    }
+  }
+  
